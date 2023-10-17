@@ -1,4 +1,4 @@
-# Zozik Guitar
+# Zozik Robbery Cash Registers
 
 
 Script written in lua to fivem. Script for robbing cash registers, using the latest ox_target and Fancy-MathGame
