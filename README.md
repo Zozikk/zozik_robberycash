@@ -5,7 +5,6 @@ Script written in lua to fivem. Script for robbing cash registers, using the lat
 
 ## Links
 
-Watch results [Click to watch preview](https://streamable.com/4wz1bl).
 Fancy-MathGame [Click to watch preview](https://github.com/FancyCodePL/Fancy-MathGame).
 
 
